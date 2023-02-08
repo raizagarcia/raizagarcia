@@ -1,7 +1,7 @@
 ### Hello!
 
 * I'm a Junior Full Stack Developer with a background in Journalism. My curiosity and passion to learn new things led me to the tech world.
-* My skills as a Full Stack Developer are: JavaScript, HTML, CSS, ReactJS, HTML, MongoDB and Node.JS.
+* My skills as a Full Stack Developer are: JavaScript, HTML, CSS, ReactJS, MongoDB and Node.JS.
 * Fun facts about me: I'm a cat mom 🐱 and I love crosswords.
 
 <div align="center">
